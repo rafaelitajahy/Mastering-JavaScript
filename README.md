@@ -2,4 +2,11 @@
 Mastering JavaScript
 
 -- Cap1
-  -- Basic 
+  -- comments
+  -- conditional
+  -- constantes
+  -- equality
+  -- loop
+  -- types
+  -- variables
+   
