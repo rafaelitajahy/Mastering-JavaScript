@@ -27,14 +27,15 @@ console.log("Broken \n lines");
 //lines
 
 /*
-•  \n: Newline
-•  \t: Tab
-•  \b: Backspace
-•  \r: Carriage return
-•  \\: Backslash
-•  \': Single quote
-•  \": Double quote
+ •  \n: Newline
+ •  \t: Tab
+ •  \b: Backspace
+ •  \r: Carriage return
+ •  \\: Backslash
+ •  \': Single quote
+ •  \": Double quote
  */
+
 var s = new String("dummy"); //Creates a String object
 console.log(s); //"dummy"
 console.log(typeof s); //"object"
