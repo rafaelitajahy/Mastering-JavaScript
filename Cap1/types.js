@@ -55,8 +55,7 @@ console.log("Hello".includes("X")); //false
 var splitStringByWords = "Hello World".split(" ");
 console.log(splitStringByWords); //["Hello", "World"]
 var splitStringByChars = "Hello World".split("");
-console.log(splitStringByChars); //["H", "e", "l", "l", "o", " ", 
-"W", "o", "r", "l", "d"]
+console.log(splitStringByChars); //["H", "e", "l", "l", "o", " ", "W", "o", "r", "l", "d"]
 console.log("lowercasestring".toUpperCase()); //"LOWERCASESTRING"
 console.log("UPPPERCASESTRING".toLowerCase()); 
 //"upppercasestring"
